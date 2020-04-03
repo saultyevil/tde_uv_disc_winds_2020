@@ -63,10 +63,10 @@ column headers.
     85      :  the flux in the units defined on LINE 6 for an inclination angle 
                of 85 degrees relative to the z axis
 
-## Parameter Files Files
+## Parameter Files
 
 For those interested, the complete parameter file for each model can be found
-in the "pf" directory. A complete description of the input parameters can be
+in the "parameter_files" directory. A complete description of the input parameters can be
 found as part of the standard documentation for Python.
 
 The models were run using a fork of Python, specifically on the "tde" branch.
