@@ -13,7 +13,7 @@ file.
 
 If you use any of these models, please cite the MNRAS paper!
 
-arXiv: [blank]
+arXiv: [2004.07727](https://arxiv.org/abs/2004.07727)
 
 ## File Names
 
